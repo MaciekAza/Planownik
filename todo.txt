@@ -1,2 +1,1 @@
--ogarnięcie sprawdzania daty i wyświetlanie jej
--czyszczenie dni gdy wykryje kolejny (dodanie daty dnia w każdym pliku)
+-grafika

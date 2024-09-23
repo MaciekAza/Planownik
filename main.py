@@ -1,8 +1,8 @@
 import datetime,sys
 #zmienne
-current_datetime = datetime.datetime.now()
-current_hour = current_datetime.hour
-current_day = current_datetime.strftime('%A')
+current_datetime = str(datetime.datetime.now())
+day_name = datetime.datetime.now().strftime("%A")
+print(current_datetime.split(".")[0],day_name)
 #sprawdzanie dnia
 
 days = {
